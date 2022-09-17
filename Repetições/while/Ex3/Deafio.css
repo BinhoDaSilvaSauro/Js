@@ -1,0 +1,70 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgb(102, 137, 146);
+}   
+
+#Titulo {
+    text-align: center;
+    margin: 20px;
+    color: white;
+    margin-bottom: 15px;
+}
+
+option {
+    padding: 10px;
+}
+
+#p1 {
+    margin-bottom: 10px;
+}
+
+#p2 {
+    margin-top: 10px;
+}
+
+#P {
+    width: 175px;
+    background-color: transparent;
+    border: none;
+    border-bottom: solid 2px;
+    border-color: black;
+    outline: none;
+}
+
+#Subtitulo {
+    margin-bottom: 15px;
+}
+
+#Caixa {
+    padding: 15px;
+    background: white;
+    border-radius: 10px;
+    height: 260px;
+    width: 430px;   
+    margin: auto;
+}
+
+#Botao {
+    background-color: rgb(102, 137, 146);
+    border-radius: 2px;
+    color: white;
+    cursor: pointer;
+    border: none;
+    padding: 3px;
+}
+
+#Rodape {
+    text-align: center;
+    color: white;
+    margin-top: 20px;
+}
+
+.fonte {
+    font: normal 18px arial;
+    margin-top: 10px; 
+    margin-bottom: 10px;
+}
